@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aquasportsbsb.vercel.app/sitemap.xml
